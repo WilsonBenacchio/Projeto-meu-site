@@ -34,7 +34,7 @@ background-color: blue;
 
 }
 
-#imagem2{
+.imagem2{
 
     display: flex;
     justify-content: space-between;
@@ -124,5 +124,4 @@ background-color: blue;
 #imagemsenai > img{
 
     margin: 2%;
-
 }
